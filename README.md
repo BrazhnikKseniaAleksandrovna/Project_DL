@@ -103,7 +103,8 @@ CNN-блок:
  2) Запустить код в файле voice_app.ipynb 
  3) Перейти по ссылке, которая выведится в предпоследнем блоке
 Вас должен ожидать такой милый котик:
-![image](https://github.com/user-attachments/assets/bcc1df14-a416-4a7d-b8f8-e46462000f5b)
+![image](https://github.com/user-attachments/assets/37cf1816-d1f5-451d-a529-0421ef74a468)
+
 
 P.S. Если возникнут вопросы с получением ссылки, то обратитесь к нам
 
