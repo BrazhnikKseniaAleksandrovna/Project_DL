@@ -90,13 +90,20 @@ CNN-блок:
 
 **Что делать для веб сервиса**
 
- 1) Скачать файл app.py, web_service.ipynb и requirements.txt из папки apps
+ 1) Скачать файл speech_command_cnn.pth, label2idx.pkl, web_service.ipynb и app.py
  2) Запустить код в файле web_service.ipynb
  3) Перейти по ссылке, которая выведится в предпоследнем блоке
 Вас должен ожидать такой сайт:
 ![image](https://github.com/user-attachments/assets/32d186aa-1a5b-4810-a206-03f105a92274)
 
 **Что делать для приложения**
+ 1) Скачать файл voice_app.ipynb 
+ 2) Запустить код в файле voice_app.ipynb 
+ 3) Перейти по ссылке, которая выведится в предпоследнем блоке
+Вас должен ожидать такой милый котик:
+![image](https://github.com/user-attachments/assets/bcc1df14-a416-4a7d-b8f8-e46462000f5b)
+
+P.S. Если возникнут вопросы с получением ссылки, то обратитесь к нам
 
 
 
