@@ -96,5 +96,8 @@ CNN-блок:
 Вас должен ожидать такой сайт:
 ![image](https://github.com/user-attachments/assets/32d186aa-1a5b-4810-a206-03f105a92274)
 
+**Что делать для приложения**
+
+
 
 
