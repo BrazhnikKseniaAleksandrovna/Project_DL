@@ -95,14 +95,14 @@ CNN-блок:
  1) Скачать файл speech_command_cnn.pth, label2idx.pkl, web_service.ipynb и app.py
  2) Запустить код в файле web_service.ipynb
  3) Перейти по ссылке, которая выведится в предпоследнем блоке
-Вас должен ожидать такой сайт:
+ 4) Вас должен ожидать такой сайт:
 ![image](https://github.com/user-attachments/assets/32d186aa-1a5b-4810-a206-03f105a92274)
 
 **Что делать для приложения**
  1) Скачать файл voice_app.ipynb 
  2) Запустить код в файле voice_app.ipynb 
  3) Перейти по ссылке, которая выведится в предпоследнем блоке
-Вас должен ожидать такой милый котик:
+ 4) Вас должен ожидать такой милый котик:
 ![image](https://github.com/user-attachments/assets/37cf1816-d1f5-451d-a529-0421ef74a468)
 
 
